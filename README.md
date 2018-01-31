@@ -1,10 +1,3 @@
-<!DOCTYPE html><html><head><meta charset="utf-8"><title>Untitled Document.md</title><script type="text/javascript">
-//<![CDATA[
-window.__cfRocketOptions = {byc:0,p:0,petok:"f0651fad67f6067e3bc91762e10e40d7a18d1911-1517027270-1800"};
-//]]>
-</script>
-<script type="text/javascript" src="https://ajax.cloudflare.com/cdn-cgi/scripts/b7ef205d/cloudflare-static/rocket.min.js"></script>
-<style></style></head><body id="preview">
 <h1><a id="Project_Movie_Trailer_Website_0"></a>Project: Movie Trailer Website</h1>
 <h5><a id="by_Ramesh_Vegoti_1"></a>by Ramesh Vegoti</h5>
 <p>Movie trailer website project, part of the <a href="https://in.udacity.com/course/full-stack-web-developer-nanodegree--nd004">Udacity Full Stack Web Developer Nanodegree</a></p>
@@ -34,5 +27,3 @@ The following features were implemented to gain an extra credit from Udacity:</p
 <li>Added a footer content and copyright text</li>
 </ul>
 <p>This README document is based on a template suggested by PhilipCoach in this Udacity forum post.</p>
-
-</body></html>
